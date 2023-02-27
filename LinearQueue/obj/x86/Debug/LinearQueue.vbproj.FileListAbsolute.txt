@@ -1,0 +1,8 @@
+C:\Aaron\LinearQueue\LinearQueue\bin\Debug\LinearQueue.exe
+C:\Aaron\LinearQueue\LinearQueue\bin\Debug\LinearQueue.pdb
+C:\Aaron\LinearQueue\LinearQueue\bin\Debug\LinearQueue.xml
+C:\Aaron\LinearQueue\LinearQueue\obj\x86\Debug\LinearQueue.Resources.resources
+C:\Aaron\LinearQueue\LinearQueue\obj\x86\Debug\LinearQueue.vbproj.GenerateResource.Cache
+C:\Aaron\LinearQueue\LinearQueue\obj\x86\Debug\LinearQueue.exe
+C:\Aaron\LinearQueue\LinearQueue\obj\x86\Debug\LinearQueue.xml
+C:\Aaron\LinearQueue\LinearQueue\obj\x86\Debug\LinearQueue.pdb
